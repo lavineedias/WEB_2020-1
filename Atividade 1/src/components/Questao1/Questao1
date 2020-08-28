@@ -1,0 +1,16 @@
+export default function Dados_Pessoais({
+    
+    name,
+    curso,
+    cidade,
+  }) {
+
+  return (
+    <div>
+    <h2>{name}</h2>
+    <h2>{curso}</h2>
+    <h2>{cidade}</h2>
+    </div>
+  );
+}
+
