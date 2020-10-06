@@ -2,5 +2,5 @@
 
 Repositorio dedicado a disciplina de Web
 
-mongod --dpath ../datadir/
+mongod --dbpath ../datadir/
 
